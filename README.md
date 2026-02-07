@@ -17,7 +17,7 @@ The following Cloudflare features used by this project have free tiers:
 - Cloudflare Access (authentication)
 - Browser Rendering (for browser navigation)
 - AI Gateway (optional, for API routing/analytics)
-- R2 Storage (optional, for persistence)
+- R2 Storage (optional, for persistence)rrrrrrrrrr
 
 ## Container Cost Estimate
 
